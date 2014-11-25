@@ -1,14 +1,14 @@
 ---
 layout: page
-title: 关于 tiankonguse 的一些东西
-description: tiankonguse 的博客历史与个人经历
-keywords:  About, Author, Site, tiankonguse, Jekyll, GitHub, Chrome, Firefox, Safari, IE, MS, Contact, Change, Log, SEO
+title: 关于 hqz1989 的一些东西
+description: hqz1989 的博客历史与个人经历
+keywords:  About, Author, Site, hqz1989, Jekyll, GitHub, Chrome, Firefox, Safari, IE, MS, Contact, Change, Log, SEO
 isContact: true
 ---
 
-## 关于 tiankonguse
+## 关于 hqz1989
 
-我是 tiankonguse, 一个安静的程序员。  
+我是 hqz1989, 一个安静的程序员。  
 一直坐着自己喜欢做的事：看书，学习新的知识，研究算法，看漫画，一周偶尔看一场电影。
 
 
